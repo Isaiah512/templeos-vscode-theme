@@ -1,0 +1,29 @@
+{
+  "name": "templeos-theme",
+  "displayName": "templeos-theme",
+  "description": "Temple OS Theme",
+  "version": "0.0.1",
+  "publisher": "Isaiahdev",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "themes",
+    "dark",
+    "light"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "TempleOS Theme",
+        "uiTheme": "vs",
+        "path": "./themes/TempleOS Theme-color-theme.json"
+      }
+    ]
+  }
+}
