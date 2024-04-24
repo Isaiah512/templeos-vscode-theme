@@ -17,6 +17,10 @@
     "dark",
     "light"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Isaiah512/templeos-vscode-theme.git"
+  },
   "contributes": {
     "themes": [
       {
