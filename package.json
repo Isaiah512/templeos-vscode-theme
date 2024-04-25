@@ -2,6 +2,7 @@
   "name": "templeos-theme",
   "displayName": "templeos-theme",
   "description": "Temple OS Theme",
+  "icon": "assets/TempleOS.png",
   "version": "0.0.1",
   "publisher": "Isaiahdev",
   "engines": {
